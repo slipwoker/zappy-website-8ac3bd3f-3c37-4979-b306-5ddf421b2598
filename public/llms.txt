@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+התקנת גדרות במבוק איכותיות לעיצוב חוץ וגינון מושלם. פתרונות במבוק ייחודיים שישדרגו את הגינה שלכם בסגנון טרופי ואלגנטי. התייעצות ללא עלות!
+
+### שירותים
+https://example.com/services
+שירותי עיצוב וגינון מקצועיים עם מומחיות בהתקנת גדרות במבוק. קבלו הצעת מחיר מיוחדת להתקנה מהירה ואיכותית. מגוון פתרונות במבוק לכל צורך ותקציב.
+
+### פרויקטים
+https://example.com/projects
+צפו בפרויקטים שהשלמנו בהצלחה! גדרות במבוק לגינה פרטית, עיצובי חוץ ייחודיים ופתרונות גינון יצירתיים. קבלו השראה לגינה שלכם ממאות לקוחות מרוצים.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עכשיו לייעוץ חינם והצעת מחיר מיוחדת להתקנת גדרות במבוק. אנחנו זמינים לכל שאלה בנושא עיצוב חוץ וגינון. שירות אישי ומקצועי מובטח!
+
+### Products
+https://example.com/products
+המוצרים שלנו - במבוק מקסי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - במבוק מקסי
+
+### Category
+https://example.com/category/:slug
+מוצרים - במבוק מקסי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
